@@ -4,4 +4,4 @@
 <li>Remove apparel</li>
 <li>Language / tool : React</li>
 <br/>
-<img src="videos/apparel.gif">
+<img src="apparel.gif">
