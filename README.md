@@ -3,4 +3,4 @@
 <li>Filter apparel based on type</li>
 <li>Remove apparel</li>
 <br/>
-https://github.com/user-attachments/assets/e60d6926-528b-4f88-98ac-f0e2c15a8f48
+![apparel_store](https://github.com/user-attachments/assets/38975f18-1e70-4c7b-a830-857244b09ddc)
