@@ -4,4 +4,3 @@
 <li>Remove apparel</li>
 <li>Language / tool : React</li>
 <br/>
-![apparel](https://github.com/user-attachments/assets/776c8518-2a0a-47b7-920f-720ebf5b92b8)
