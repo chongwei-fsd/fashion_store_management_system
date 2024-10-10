@@ -4,4 +4,4 @@
 <li>Remove apparel</li>
 <li>Language / tool : React</li>
 <br/>
-[![ApparelStore](apparel.gif)](https://github.com/chongwei-fsd/fashion_store_management_system/blob/main/apparel.gif?raw=true)
+![apparel](https://github.com/user-attachments/assets/7b517495-134b-43c4-b5ca-0b0a604aae0b)
